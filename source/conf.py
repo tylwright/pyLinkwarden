@@ -11,6 +11,7 @@ extensions = [
     'sphinx.ext.napoleon',
     'sphinx.ext.viewcode',
     'sphinx_rtd_theme',
+    'sphinx.ext.githubpages',
 ]
 
 autodoc_default_options = {
